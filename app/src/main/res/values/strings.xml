@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="id">Id</string>
+    <string name="nomor">nomor</string>
+    <string name="age">age</string>
+    <string name="team">team</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="negara">negara</string>
+    <string name="posisi">posisi</string>
+</resources>
